@@ -1,0 +1,85 @@
+body{
+  background-color:hsl(185, 75%, 39%);
+}
+p{
+  font-size: 18px;
+  font-family: 'Montserrat' sans-serif;
+}
+.top-pattern{
+  position: absolute;
+  right:  1440px;
+  bottom: 400px;
+}
+.bottom-pattern{
+  position: absolute;
+  left: 1440px;
+  top: 400px;
+}
+
+.main-container{
+  background-color: #EAF6F6;
+  width: 350px;
+  height: 450px;
+  margin: 180px auto;
+  border-radius: 25px;
+}
+
+.card-pattern{
+  border-radius: 25px 25px 0 0;
+  width: 350px;
+  height: 170px;
+}
+.Photos{
+  border-radius: 50%;
+  position: relative;
+  left: 127px;
+  bottom: 50px;
+}
+
+.p-one{
+  text-align: center;
+  margin: 0;
+  position: relative;
+  bottom: 40px;
+  clear: right;
+  line-height: 2;
+  font-weight: 700;
+}
+
+
+.p-two{
+  margin: 0;
+  position: relative;
+  top: 15px;
+  line-height: 2;
+  font-weight: 700;
+  text-align: center;
+  float: left;
+  padding: 0 10px;
+
+}
+.p-three{
+  margin-left: 137.500px;
+  position: relative;
+  font-weight: 700;
+  text-align: center;
+  line-height: 2;
+  width: 75px;
+  bottom: 5px;
+}
+.p-four{
+  margin: 0;
+  position: relative;
+  text-align: center;
+  float:  right;
+  bottom:  95px;
+  line-height: 2;
+  font-weight: 700;
+  width: 75px;
+  padding-left: 217px;
+  padding-right: 10px;
+}
+sp{
+  font-weight: 400;
+  color: gray;
+}
